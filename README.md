@@ -20,3 +20,7 @@ Projects from CS368 (MATLAB)
 ## Project 5
 - Random Variables, Simulation
 - Conditionals, Recursion
+
+## Project 5
+- Debugging, Input Validation
+- Numerical Differentiation, Integration
